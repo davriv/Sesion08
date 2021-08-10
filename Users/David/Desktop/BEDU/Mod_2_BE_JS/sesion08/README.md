@@ -1,0 +1,2 @@
+El problema es que me crea dos archivos de imagen en la carpeta de dist, uno de ellos tiene un error y el otro si es el correcto.
+Pero en el index.html de la carpeta de dist, el que agarra o jala es el que tiene error, y no el que está bien.
